@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.pt
+*.wav
+.env
+.DS_Store
+data/
+generated/
+build/
