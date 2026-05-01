@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "LASE: Language-Adversarial Speaker Encoding for Indic Cross-Script Identity Preservation"
+message: "If you use this software, please cite the accompanying paper."
+type: software
+authors:
+  - family-names: Menta
+    given-names: Venkata Pushpak Teja
+    orcid: "https://orcid.org/0009-0003-2479-9208"
+    affiliation: Praxel Ventures
+    email: pushpak@praxel.in
+repository-code: "https://github.com/praxelhq/lase"
+license: MIT
+preferred-citation:
+  type: article
+  title: "LASE: Language-Adversarial Speaker Encoding for Indic Cross-Script Identity Preservation"
+  authors:
+    - family-names: Menta
+      given-names: Venkata Pushpak Teja
+      orcid: "https://orcid.org/0009-0003-2479-9208"
+  year: 2026
+  identifiers:
+    - type: other
+      value: "arXiv:TBD"
